@@ -1,0 +1,47 @@
+    body{
+        background-color:#EDE6DB;
+    }
+    hr{
+        border-style: none;  
+        border-top-style: dotted;   
+        border-color: #F5A962;  
+        border-width: 5px;    
+        width: 10%;
+    }
+    h1{
+        font-size: 50px;
+        font-family: fantasy;
+        color: #125D98;
+        text-align: center;
+    }
+    h3{
+        color: #3C8DAD;
+        text-align: center;
+    }
+    ul{
+        list-style-position: inside;
+        list-style-type: square;
+        width: 300px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    img{
+        width: 150px;
+    }
+    .table{
+        border-collapse: collapse;
+        border-style: solid;
+        border-color: #3C8DAD;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 95%;
+        text-align: center;
+        width: 30%;
+    }
+    .table tr:hover {
+        background-color: #F5A962;
+    }
+    .table th{
+        color: #F5A962;
+        background-color: #3C8DAD;
+    }
+
+    
